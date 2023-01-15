@@ -1,0 +1,9 @@
+{
+  "token": "TOKEN",
+  "mongoDB": "MONGOURL",
+  "mod":"MODROLID",
+  "rol1":"INDIRIMROLID1",
+  "rol2":"INDIRIMROLID2",
+  "logKanal":"LOGKANALID",
+  "kategori": "SATISTALEPKANALID"
+}
